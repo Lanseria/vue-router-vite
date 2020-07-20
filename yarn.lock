@@ -2013,6 +2013,11 @@ vue@^3.0.0-rc.1, vue@^3.0.0-rc.2:
     "@vue/runtime-dom" "3.0.0-rc.2"
     "@vue/shared" "3.0.0-rc.2"
 
+vuex@4.0.0-beta.2:
+  version "4.0.0-beta.2"
+  resolved "https://registry.npm.taobao.org/vuex/download/vuex-4.0.0-beta.2.tgz#8ced720de70e5549a72b0982199cae3ecc687482"
+  integrity sha1-jO1yDecOVUmnKwmCGZyuPsxodII=
+
 wcwidth@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npm.taobao.org/wcwidth/download/wcwidth-1.0.1.tgz#f0b0dcf915bc5ff1528afadb2c0e17b532da2fe8"
